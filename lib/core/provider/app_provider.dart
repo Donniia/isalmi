@@ -55,7 +55,7 @@ class AppProvider extends ChangeNotifier {
 
   Future<void> saveLanguage(String lang) async{
     String langValue = (lang == "ar"?'ar':'en');
-    await preferences!.setString(_langKey, lang);
+    await preferences!.setString(_langKey, langValue);
   }
 
   Future<void> loadingSettingConfig() async {

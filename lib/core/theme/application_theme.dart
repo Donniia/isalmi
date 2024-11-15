@@ -12,17 +12,17 @@ class AppTheme {
       secondary: Colors.black,
       primaryContainer: Colors.white.withOpacity(0.6),
     ),
-    bottomNavigationBarTheme: BottomNavigationBarThemeData(
+    bottomNavigationBarTheme: const BottomNavigationBarThemeData(
       type: BottomNavigationBarType.fixed,
-      backgroundColor: const Color(0xffB7935F),
-      selectedIconTheme:const IconThemeData(color: Colors.black, size: 30),
+      backgroundColor:  Color(0xffB7935F),
+      selectedIconTheme: IconThemeData(color: Colors.black, size: 30),
       selectedItemColor:  Colors.black,
       unselectedIconTheme: IconThemeData(color: Colors.white, size: 28),
       unselectedItemColor: Colors.white,
     ),
     scaffoldBackgroundColor: Colors.transparent,
     appBarTheme: AppBarTheme(
-        iconTheme: IconThemeData(color: Colors.black),
+        iconTheme:const IconThemeData(color: Colors.black),
         elevation: 0,
         centerTitle: true,
         backgroundColor: Colors.transparent,
@@ -56,7 +56,7 @@ class AppTheme {
         secondary: Colors.white,
         primaryContainer: const Color(0xff141A2E).withOpacity(0.8)
     ),
-    bottomNavigationBarTheme: BottomNavigationBarThemeData(
+    bottomNavigationBarTheme:const  BottomNavigationBarThemeData(
       type: BottomNavigationBarType.fixed,
       backgroundColor: Color(0xff141A2E),
       selectedIconTheme: IconThemeData(color: Color(0xffFACC1D), size: 30),
@@ -66,7 +66,7 @@ class AppTheme {
     ),
     scaffoldBackgroundColor: Colors.transparent,
     appBarTheme: AppBarTheme(
-        iconTheme: IconThemeData(color: Colors.white),
+        iconTheme:const IconThemeData(color: Colors.white),
         elevation: 0,
         centerTitle: true,
         backgroundColor: Colors.transparent,
