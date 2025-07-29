@@ -5,8 +5,8 @@ helps users to listen to the Quran on the radio.
 
 
 ## App ScreenShots
-<img src="assets/screenShots/1.png" alt="App Screenshots" width="300">
-<img src="assets/screenShots/2.png" alt="App Screenshots" width="300">
+<img src="assets/screenShots/1.png" alt="App Screenshots" width="300"> <img src="assets/screenShots/2.png" alt="App Screenshots" width="300">
+
 <img src="assets/screenShots/3.png" alt="App Screenshots" width="300"/>
 <img src="assets/screenShots/4.png" alt="App Screenshots" width="300"/>
 <img src="assets/screenShots/5.png" alt="App Screenshots" width="300"/>
