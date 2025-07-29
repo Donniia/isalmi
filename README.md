@@ -4,7 +4,7 @@ Isalmi app helps users to view the Quran and hadith and use the Sabha and also
 helps users to listen to the Quran on the radio.
 ## 📱 App Preview
 
-<img src="assets/screenShots/" alt="App Screenshots" width="300"/>
+<img src="assets/screenShots/1.png" alt="App Screenshots" width="300"/>
 
 ## App ScreenShots
 ![App Screenshot](assets/screenShots/1.png)
