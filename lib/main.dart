@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:islamic_app/l10n/app_localizations.dart';
 import 'package:provider/provider.dart';
 import 'core/provider/app_provider.dart';
 import 'core/provider/radio_provider.dart';
@@ -7,7 +8,7 @@ import 'home.dart';
 import 'modules/hadeth/hadeth_details.dart';
 import 'modules/quran/quran_details.dart';
 import 'modules/splash_screen.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

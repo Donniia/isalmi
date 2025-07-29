@@ -4,6 +4,10 @@
 /// recent_date : "2019-02-02 13:40:34"
 
 class RadioModel {
+  int? id;
+  String? name;
+  String? url;
+  String? recentDate;
   RadioModel({
       this.id, 
       this.name, 
@@ -16,10 +20,7 @@ class RadioModel {
     url = json['url'];
     recentDate = json['recent_date'];
   }
-  int? id;
-  String? name;
-  String? url;
-  String? recentDate;
+
 
 
 

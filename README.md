@@ -1,16 +1,15 @@
 # islamic_app
 
-A new Flutter project.
+Isalmi app helps users to view the Quran and hadith and use the Sabha and also
+helps users to listen to the Quran on the radio.
 
-## Getting Started
+## App ScreenShots
+![ScreenShot](assets/screenShots/1.png)
+![ScreenShot](assets/screenShots/2.png)
+![ScreenShot](assets/screenShots/3.png)
+![ScreenShot](assets/screenShots/4.png)
+![ScreenShot](assets/screenShots/5.png)
 
-This project is a starting point for a Flutter application.
+### 📽️ Demo Video
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[▶️ Watch the video](https://drive.google.com/file/d/1ihWg0knvlLfIihl6clGPXDBk7NcnGPmg/view?usp=drive_link)

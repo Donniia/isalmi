@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:islamic_app/l10n/app_localizations.dart';
 import 'package:islamic_app/modules/settings/selected_option.dart';
 import 'package:islamic_app/modules/settings/unselected_option.dart';
 
 import 'package:provider/provider.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+
 
 import '../../core/provider/app_provider.dart';
 
