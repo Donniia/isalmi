@@ -1,15 +1,16 @@
 # islamic_app
-
-Isalmi app helps users to view the Quran and hadith and use the Sabha and also
+A mobile app built using flutter helps users to view the Quran and hadith and use the Sabha and also
 helps users to listen to the Quran on the radio.
 
 
 ## App ScreenShots
-<img src="assets/screenShots/1.png" alt="App Screenshots" width="300"> <img src="assets/screenShots/2.png" alt="App Screenshots" width="300">
-
-<img src="assets/screenShots/3.png" alt="App Screenshots" width="300"/>
-<img src="assets/screenShots/4.png" alt="App Screenshots" width="300"/>
-<img src="assets/screenShots/5.png" alt="App Screenshots" width="300"/>
+<p>
+<img src="assets/screenShots/1.png"  width="300">
+<img src="assets/screenShots/2.png" alt="App Screenshots" width="300">
+<img src="assets/screenShots/3.png" alt="App Screenshots" width="300">
+<img src="assets/screenShots/4.png" alt="App Screenshots" width="300">
+<img src="assets/screenShots/5.png" alt="App Screenshots" width="300">
+</p>p>
 
 
 
