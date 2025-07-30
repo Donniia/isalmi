@@ -13,7 +13,7 @@ helps users to listen to the Quran on the radio.
 
 ## App ScreenShots
 
-Here are some screeshots for the application:
+Here are some screenshots for the application:
 
 <p>
 <img src="assets/screenShots/1.png"  width="250">
