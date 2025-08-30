@@ -29,4 +29,4 @@ Here are some screenshots for the application:
 
 ### 📽️ Demo Video
 
-[▶️ Watch the video]([https://drive.google.com/file/d/1ihWg0knvlLfIihl6clGPXDBk7NcnGPmg/view?usp=drive_link](https://drive.google.com/file/d/1ihWg0knvlLfIihl6clGPXDBk7NcnGPmg/view?usp=sharing))
+[▶️ Watch the video](https://drive.google.com/file/d/1ihWg0knvlLfIihl6clGPXDBk7NcnGPmg/view?usp=sharing)
